@@ -1,5 +1,6 @@
 # Week 1 — Initial Discovery
 ## 1. Facts
+yes
 ## 2. Assumptions
 ## 3. Unknowns
 ## 4. Stakeholders
